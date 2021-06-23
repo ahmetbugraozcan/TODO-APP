@@ -233,6 +233,4 @@ class _HomeViewState extends State<HomeView> {
         DateFormat('yyyy-MM-dd – kk:mm').format(now).toString();
     return formattedDate;
   }
-  //Card widgetimiz bu olacak içindeki veriler veritabanından gelecek
-
 }
